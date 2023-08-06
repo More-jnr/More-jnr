@@ -3,8 +3,10 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
+  - [Command-line Application]
+  - [Windows Presentation Foundation (WPF)]
 - <b>Kotlin</b>
-  - [OG Sneakers Application]
+  - [OG Sneakers Application (Shopping Application)]
 
 <h2>📺 Popular YouTube Videos</h2>
 

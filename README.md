@@ -11,7 +11,8 @@
   - [Online student book-store]
   - [Car Rental Web application]
 - <b>MySQL (MySQL Website Database)</b>
-  - []
+  - [created and managed databases and tables]
+  - [Query, manipulate, and update data in databases]
 - <b>Kotlin</b>
   - [OG Sneakers Application (Shopping Application)]
   - [Bird Locator application]

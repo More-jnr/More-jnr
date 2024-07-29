@@ -7,7 +7,10 @@
   - [Windows Presentation Foundation (WPF)]
 - <b>Kotlin</b>
   - [OG Sneakers Application (Shopping Application)]
-  - [Bird Locator application ]
+  - [Bird Locator application]
+  - [Coffee Restuarant Menu]
+    
+<h2> 👨‍💻 Service Desk Projects</h2>
 
 
 

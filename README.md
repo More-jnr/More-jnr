@@ -13,6 +13,7 @@
 - <b>MySQL (MySQL Website Database)</b>
   - [created and managed databases and tables]
   - [Query, manipulate, and update data in databases]
+- <b>Java (.Console Web application)</b>
 - <b>Kotlin</b>
   - [OG Sneakers Application (Shopping Application)]
   - [Bird Locator application]

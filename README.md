@@ -5,6 +5,11 @@
 - <b>C# (.NET Desktop Applications)</b>
   - [Command-line Application]
   - [Windows Presentation Foundation (WPF)]
+  - [Student registraion Web application]
+- <b> PHP (Database store)</b>
+  - [Store user registration/login details]
+  - [Online student book-store]
+  - [Car Rental Web application]
 - <b>Kotlin</b>
   - [OG Sneakers Application (Shopping Application)]
   - [Bird Locator application]

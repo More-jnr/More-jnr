@@ -10,6 +10,8 @@
   - [Store user registration/login details]
   - [Online student book-store]
   - [Car Rental Web application]
+- <b>MySQL (MySQL Website Database)</b>
+  - []
 - <b>Kotlin</b>
   - [OG Sneakers Application (Shopping Application)]
   - [Bird Locator application]

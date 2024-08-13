@@ -30,6 +30,12 @@
 [<img align="left" alt="ThatoMore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ThatoMore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+🌱 <h2>I’m currently learning</h2> 
+-[Network Administraion]  
+-[Configuring network interface]
+-[Monitoring network traffic ]
+
 [instagram]: https://www.instagram.com/that0_za
 [linkedin]:  https://www.linkedin.com/in/thato-more-a0636a233/
 
@@ -39,7 +45,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- .
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

@@ -25,7 +25,7 @@
    - [qwerty1
    - [qwerty2]
 
-- <b>🌱 I’m currently learning</b> 
+- <h2>🌱 I’m currently learning</h2> 
   - [Network Administraion]  
   - [Configuring network interface]
   - [Monitoring network traffic]

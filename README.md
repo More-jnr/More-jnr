@@ -24,9 +24,9 @@
 
 
  <h2> 🌱 I’m currently learning</h2> 
--[Network Administraion]  
--[Configuring network interface]
--[Monitoring network traffic ]
+- [Network Administraion]  
+- [Configuring network interface]
+- [Monitoring network traffic ]
 
 <h2> 🤳 Connect with me:</h2>
 

@@ -21,12 +21,14 @@
   - [Coffee Restuarant Menu]
     
 <h2> 👨‍💻 Helpdesk Projects</h2>
-
+   - [1]
+   - [2]
+   - [3]
 
 - <b>🌱 I’m currently learning</b> 
-- [Network Administraion]  
-- [Configuring network interface]
-- [Monitoring network traffic ]
+  - [Network Administraion]  
+  - [Configuring network interface]
+  - [Monitoring network traffic]
 
 <h2> 🤳 Connect with me:</h2>
 

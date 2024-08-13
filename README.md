@@ -23,7 +23,7 @@
 <h2> 👨‍💻 Helpdesk Projects</h2>
 
 
- <h2> 🌱 I’m currently learning</h2> 
+- <b>🌱 I’m currently learning</b> 
 - [Network Administraion]  
 - [Configuring network interface]
 - [Monitoring network traffic ]

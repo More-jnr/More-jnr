@@ -20,7 +20,7 @@
   - [Bird Locator application]
   - [Coffee Restuarant Menu]
     
-<h2> 👨‍💻 Service Desk Projects</h2>
+<h2> 👨‍💻 Helpdesk Projects</h2>
 
 
 

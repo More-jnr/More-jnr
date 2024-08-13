@@ -21,9 +21,9 @@
   - [Coffee Restuarant Menu]
     
 <h2> 👨‍💻 Helpdesk Projects</h2>
-   - [1]
-   - [2]
-   - [3]
+   - [qwerty]
+   - [qwerty1
+   - [qwerty2]
 
 - <b>🌱 I’m currently learning</b> 
   - [Network Administraion]  

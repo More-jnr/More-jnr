@@ -26,9 +26,11 @@
    - User Experiences
 
 - <h2>🌱 I’m currently learning</h2> 
-  - Network Administraion  
+  -    
   - Configuring network interface
   - Monitoring network traffic
+  - AWS Cloud Fundamentals
+  
 
 <h2> 🤳 Connect with me:</h2>
 

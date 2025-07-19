@@ -1,6 +1,6 @@
 <h1>Hi, I'm Thato! <br/
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Developer Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
   - Command-line Application

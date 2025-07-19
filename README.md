@@ -21,9 +21,9 @@
   - [Coffee Restuarant Menu]
     
 <h2> 👨‍💻 Helpdesk Projects</h2>
-   - [qwerty]
-   - [qwerty1
-   - [qwerty2]
+   - [Developing self-service portals]
+   - [communication channels ]
+   - [User Experiences]
 
 - <h2>🌱 I’m currently learning</h2> 
   - [Network Administraion]  
@@ -33,10 +33,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="ThatoMore | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ThatoMore | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/that0_za
 [linkedin]:  https://www.linkedin.com/in/thato-more-a0636a233/
 
 <!--

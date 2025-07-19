@@ -3,32 +3,32 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>C# (.NET Desktop Applications)</b>
-  - [Command-line Application]
-  - [Windows Presentation Foundation (WPF)]
-  - [Student registraion Web application]
+  - Command-line Application
+  - Windows Presentation Foundation (WPF)
+  - Student registraion Web application
 - <b> PHP (Database store)</b>
-  - [Store user registration/login details]
-  - [Online student book-store]
-  - [Car Rental Web application]
+  - Store user registration/login details
+  - Online student book-store
+  - Car Rental Web application
 - <b>MySQL (MySQL Website Database)</b>
-  - [created and managed databases and tables]
-  - [Query, manipulate, and update data in databases]
+  - created and managed databases and tables
+  - Query, manipulate, and update data in databases
 - <b>Java (Web application libraries)</b>
-  - [Building interactive user interfaces]
+  - Building interactive user interfaces
 - <b>Kotlin</b>
-  - [OG Sneakers Application (Shopping Application)]
-  - [Bird Locator application]
-  - [Coffee Restuarant Menu]
+  - OG Sneakers Application (Shopping Application)
+  - Bird Locator application
+  - Coffee Restuarant Menu
     
 <h2> 👨‍💻 Helpdesk Projects</h2>
-   - [Developing self-service portals]
-   - [communication channels ]
-   - [User Experiences]
+   - Developing self-service portals
+   - Communication channels 
+   - User Experiences
 
 - <h2>🌱 I’m currently learning</h2> 
-  - [Network Administraion]  
-  - [Configuring network interface]
-  - [Monitoring network traffic]
+  - Network Administraion  
+  - Configuring network interface
+  - Monitoring network traffic
 
 <h2> 🤳 Connect with me:</h2>
 

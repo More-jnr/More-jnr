@@ -25,10 +25,11 @@
    - Communication channels 
    - User Experiences
 
-- <h2>🌱 I’m currently learning</h2> 
-  -    
+- <h2>🌱 I’m currently learning</h2>   
   - Configuring network interface
+  
   - Monitoring network traffic
+    
   - AWS Cloud Fundamentals
   
 
